@@ -1,0 +1,26 @@
+.profile-pic {
+  width: 200px;
+  border-radius: 50%;
+  height: 200px;
+  object-fit: hover;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.text {
+  text-align: center;
+}
+
+.text-box {
+  border-color: grey;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.date {
+  text-align: right;
+}
